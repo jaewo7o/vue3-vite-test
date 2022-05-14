@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true    ## ES Lint 저장 시 자동 fix 설정
+    },
+    "editor.formatOnSave": true,      ## document formatting 자동 fix 설정
+}
